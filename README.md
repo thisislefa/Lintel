@@ -392,4 +392,3 @@ This project is available under the MIT License. Commercial use requires attribu
 ---
 
 *Lintel demonstrates how modern CSS techniques can create sophisticated, performant UI components with minimal dependencies. The project serves as both a production-ready component and an educational resource for advanced front-end development practices.*
- 
