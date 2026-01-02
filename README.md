@@ -212,7 +212,7 @@ The CSS minimizes expensive properties:
 ### Local Development Setup
 ```bash
 # Clone repository
-git clone https://github.com/thisislefa/Lintel.git
+git clone https://github.com/lefajmofokeng/Lintel.git
 cd Lintel
 
 # Start development server
@@ -374,7 +374,7 @@ git push origin gh-pages
 ### CDN Integration
 ```html
 <!-- Option: Deploy CSS to CDN -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisislefa/Lintel@main/styles.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lefajmofokeng/Lintel@main/styles.css">
 ```
 
 ## License & Usage
